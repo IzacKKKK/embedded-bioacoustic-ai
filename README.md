@@ -117,7 +117,7 @@ Possible future directions include:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/embedded-bioacoustic-ai.git
+git clone https://github.com/IzacKKKK/embedded-bioacoustic-ai.git
 cd embedded-bioacoustic-ai
 ```
 
